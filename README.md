@@ -23,7 +23,8 @@ This project analyzes Indian Premier League (IPL) match data to uncover insights
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ipl-analysis.git
+ git clone https://github.com/PRASH124/ipl-data-analytics-.git
+
    cd ipl-analysis
    ```
 2. Install dependencies:
